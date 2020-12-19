@@ -35,6 +35,8 @@ Projeto do jogo de dados baseado no tutorial da [Code League](https://youtu.be/B
 Essa é versão original do tutorial.
 Em breve implementações.
 
+[Clique aqui para jogar!](https://nl-dice-roll-game.netlify.app/) 
+
 <br>
 <br>
 
